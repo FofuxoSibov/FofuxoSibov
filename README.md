@@ -91,7 +91,7 @@ Introdução à redes, hardware, virtualização e programação.
   <h2>IoT</h2>
 
   <a>
-    <img align="center" alt="Arduino" height="80" width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"/>
+    <img align="center" alt="Arduino" height="70" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"/>
   </a>
   
   <br>
@@ -216,7 +216,7 @@ Gestão e automação de Serviços em Equipamentos de Redes e Servidores.
   <h2>IoT</h2>
 
   <a>
-    <img align="center" alt="Arduino" height="80" width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"/>
+    <img align="center" alt="Arduino" height="70" width="110" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"/>
   </a>
   
   <br>
