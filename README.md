@@ -1,16 +1,70 @@
-### Hi there 👋
+# 1º Semestre
+Introdução à redes, hardware, virtualização e programação.
+<br>
+<div align="center">
+  <h2>Sistemas Operacionais</h2>
 
-<!--
-**FofuxoSibov/FofuxoSibov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [![Ubuntu](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg?link=https://google.com)](https://google.com)
+  [![Debian](https://www.vectorlogo.zone/logos/debian/debian-icon.svg?link=https://google.com)](https://google.com)
+  <br>
+  <br><br>
+  ![](https://img.shields.io/badge/Instala%C3%A7%C3%A3o-E06661?logoColor=white&style=for-the-badge)
+  ![](https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge)
+  ![](https://img.shields.io/badge/RAID-E06661?logoColor=white&style=for-the-badge)
+@@ -23,7 +23,7 @@ Introdução à redes, hardware, virtualização e programação.
+  <h2>Virtualização</h2>
 
-Here are some ideas to get you started:
+  [![Virtual Box](https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg?link=https://google.com)](https://google.com)
+  <br>
+  <br><br>
+  ![](https://img.shields.io/badge/Instala%C3%A7%C3%A3o-E06661?logoColor=white&style=for-the-badge)
+  ![](https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge)
+  ![](https://img.shields.io/badge/RAID-E06661?logoColor=white&style=for-the-badge)
+@@ -40,7 +40,7 @@ Introdução à redes, hardware, virtualização e programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Cisco](https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg?link=https://google.com)](https://google.com)
+  [![Dell](https://www.vectorlogo.zone/logos/dell/dell-icon.svg?link=https://google.com)](https://google.com)
+  <br>
+  <br><br>
+  ![](https://img.shields.io/badge/Switching-6BA1EB?logoColor=black&style=for-the-badge)
+  ![](https://img.shields.io/badge/WiFi-6BA1EB?logoColor=black&style=for-the-badge)
+  ![](https://img.shields.io/badge/Infraestrutura-6BA1EB?logoColor=black&style=for-the-badge)
+@@ -55,9 +55,9 @@ Introdução à redes, hardware, virtualização e programação.
+<div align="center">
+  <h2>Programação</h2>
+
+  [![Github](https://www.vectorlogo.zone/logos/github/github-tile.svg?width=150&link=https://google.com)](https://google.com)
+  [![Github](https://www.vectorlogo.zone/logos/github/github-tile.svg=x150?link=https://google.com)](https://google.com)
+  [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg?link=https://google.com)](https://google.com)
+  <br>
+  <br><br>
+  ![](https://img.shields.io/badge/Lógica_de_Programação-F3D485?logoColor=black&style=for-the-badge)
+  ![](https://img.shields.io/badge/Funções-F3D485?logoColor=black&style=for-the-badge)
+  ![](https://img.shields.io/badge/GitHub-F3D485?logoColor=black&style=for-the-badge)
+@@ -68,7 +68,7 @@ Introdução à redes, hardware, virtualização e programação.
+  <h2>IoT</h2>
+
+  [![Arduino](https://www.vectorlogo.zone/logos/arduino/arduino-official.svg?link=https://google.com)](https://google.com)
+  <br>
+  <br><br>
+  ![](https://img.shields.io/badge/Fundamentos-79A2AE?logoColor=black&style=for-the-badge)
+  ![](https://img.shields.io/badge/Configuração-79A2AE?logoColor=black&style=for-the-badge)
+  ![](https://img.shields.io/badge/Programação-79A2AE?logoColor=black&style=for-the-badge)
+  <br>
+  ![](https://img.shields.io/badge/Bibliotecas-45818E?logoColor=white&style=for-the-badge)
+  ![](https://img.shields.io/badge/Projetos_práticos-45818E?logoColor=white&style=for-the-badge)
+</div>
+<div align="center">
+  <h2>Softs Skills</h2>
+  
+  ![](https://img.shields.io/badge/Trabalho_em_equipe-C07A9E?logoColor=black&style=for-the-badge)
+  ![](https://img.shields.io/badge/Técnicas_de_Apresentação-C07A9E?logoColor=black&style=for-the-badge)
+  ![](https://img.shields.io/badge/Programação-C07A9E?logoColor=black&style=for-the-badge)
+  <br>
+  ![](https://img.shields.io/badge/Email-A54E79?logoColor=white&style=for-the-badge)
+  ![](https://img.shields.io/badge/LinkedIn-A54E79?logoColor=white&style=for-the-badge)
+  ![](https://img.shields.io/badge/Currículo_profissional-A54E79?logoColor=white&style=for-the-badge)
+  <br>
+  ![](https://img.shields.io/badge/Relatório_técnico-C17BA0?logoColor=black&style=for-the-badge)
+  ![](https://img.shields.io/badge/Documentação-C17BA0?logoColor=black&style=for-the-badge)
+</div>
