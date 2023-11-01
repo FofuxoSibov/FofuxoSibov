@@ -21,8 +21,16 @@ Introdução à redes, hardware, virtualização e programação.
 <div align="center">
   <h2>Virtualização</h2>
 
-  [![Virtual Box](https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg?link=https://google.com)](https://google.com)
-  [![VMWare](https://vectorwiki.com/images/WP5h6__vmware.svg)?link=https://www.vmware.com)](https://www.vmware.com)
+<div>
+  <a href="https://www.virtualbox.org/">
+    <img align="center" alt="Virtual Box" height="100" width="100" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" />
+  </a>
+  
+   <a href="https://www.vmware.com">
+    <img align="center" alt="VMWare" height="100" width="100" src="https://vectorwiki.com/images/WP5h6__vmware.svg" />
+  </a>
+</div>
+
   <br>
   <br><br>
   ![](https://img.shields.io/badge/Instala%C3%A7%C3%A3o-E06661?logoColor=white&style=for-the-badge)
