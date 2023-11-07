@@ -133,7 +133,7 @@
 <h2 style="font-family: 'Bodoni', sans-serif;">Técnico Em Redes De Computadores ㅤ
   <a href="https://github.com/euumarcel0/FOFX/blob/main/README.md">
   <img align="center" alt="SENAI" height="40" width="40" src="https://icon-library.com/images/white-play-icon/white-play-icon-13.jpg"/>ㅤ
-  <img align="center" alt="SENAI" height="45" width="300" src="https://oamengenharia.com.br/wp-content/uploads/2018/09/Logo-SENAI.png" />
+  <img align="center" alt="SENAI" height="90" width="250" src="https://img.swapcard.com/?u=https%3A%2F%2Fcdn-api.swapcard.com%2Fpublic%2Fimages%2F7b8d017b016349088959c85e0b48fe9e.png&q=0.8&m=fit&w=400&h=200" />
 </h2>
 </a>
 </table>
