@@ -13,7 +13,7 @@
       <h2>Linux</h2>
       <a>
         <img align="center" alt="Linux" height="70" width="70" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" />
-        <img align="center" alt="Linux" height="70" width="70" src="https://seeklogo.com/images/K/kali-linux-logo-0EB0B3A81B-seeklogo.com.png" />
+        <img align="center" alt="Kali" height="70" width="70" src="https://camo.githubusercontent.com/00fda8888072880bf55510367297f6e1465da77a05673e8078dfba9de454c314/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4b2f6b616c692d6c696e75782d6c6f676f2d414544313831313836452d7365656b6c6f676f2e636f6d2e706e67" />
       </a>
       <br>
       <br><br>
@@ -87,7 +87,7 @@
         <img align="center" alt="Iptables" height="70" width="120" src="https://lucasvidelaine.files.wordpress.com/2020/07/iptables.png"/>
         <img align="center" alt="PFsense" height="50" width="50" src="https://wpcomputersolutions.com/wp-content/uploads/2018/07/pfsense-logo-e1534531558807.png"/>ㅤ
         <img align="center" alt="C++" height="50" width="50" src="https://iili.io/JqpBuCG.png" />
-        <img align="center" alt="Suricata" height="70" width="80" src="https://workshop.netfilter.org/2023/suricata_rgb-4.png" />
+        <img align="center" alt="Snort" height="70" width="80" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snort_logo_icon_167980.png" />
       </a>
       <br>
       <br><br>
@@ -100,13 +100,10 @@
       <br>
       <img src="https://img.shields.io/badge/Gerenciamento-79A2AE?logoColor=white&style=for-the-badge">
       <img src="https://img.shields.io/badge/Squid-79A2AE?logoColor=white&style=for-the-badge">
-         <img src="https://img.shields.io/badge/VPN site to site-79A2AE?logoColor=white&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Snort-79A2AE?logoColor=white&style=for-the-badge">
     </td>
     <td align="center">
       <h2>Automação</h2>
-      <a>
-        <img align="center" alt="Zabbix" height="70" width="110" src="https://www.unirede.net/wp-content/uploads/2016/08/zabbix-logo-produtos.png" style="border-radius: 50%;">
-      </a>
       <a>
         <img align="center" alt="Git" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="border-radius: 50%;">     
         <img align="center" alt="Ansible" height="70" width="70" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png" style="border-radius: 50%;">
